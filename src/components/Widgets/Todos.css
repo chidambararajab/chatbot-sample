@@ -1,0 +1,13 @@
+.todos {
+  color: black;
+}
+.todos__list--item {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+.todos__list--item {
+  font-size: 15px;
+  margin: 10px;
+  text-align: left;
+}
